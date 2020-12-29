@@ -11,6 +11,6 @@ How to download (on Raspbian):
 - sudo apt update
 - sudo apt install mono-devel
 
-And use "Launcher.sh" to open app
+And use "Launcher.sh" to open app (you must edit that file if .exe file isn't on Desktop)
 
 On Windows you must to download .exe file
